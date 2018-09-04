@@ -1,0 +1,44 @@
+------------BEGIN TESTS-------------
+Testing ADXL345
+
+
+i2c PASSED
+i2c PASSED
+data format PASSED
+power ctrl PASSED
+fifo PASSED
+xoffs PASSED
+yoffs PASSED
+zoffs PASSED
+------------TESTS DONE-------------
+PASSED: 
+8
+FAILED: 
+0
+-----------------------------------
+------------BEGIN TESTS-------------
+Testing Connectivity
+
+
+WIFI PASSED
+HTTP request PASSED
+------------TESTS DONE-------------
+PASSED: 
+2
+FAILED: 
+0
+-----------------------------------
+------------BEGIN TESTS-------------
+Testing Camera
+
+
+HOME PASSED
+PAN PASSED
+Virtual Input Activate PASSED
+Virtual Input Deactivate PASSED
+------------TESTS DONE-------------
+PASSED: 
+4
+FAILED: 
+0
+-----------------------------------
